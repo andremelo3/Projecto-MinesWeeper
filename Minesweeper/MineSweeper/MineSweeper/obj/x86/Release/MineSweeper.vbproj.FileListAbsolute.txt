@@ -1,0 +1,12 @@
+C:\Users\André Melo\AppData\Local\Temporary Projects\MineSweeper\bin\Release\MineSweeper.exe
+C:\Users\André Melo\AppData\Local\Temporary Projects\MineSweeper\bin\Release\MineSweeper.pdb
+C:\Users\André Melo\AppData\Local\Temporary Projects\MineSweeper\bin\Release\MineSweeper.xml
+C:\Users\André Melo\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Release\MineSweeper.Form1.resources
+C:\Users\André Melo\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Release\MineSweeper.Resources.resources
+C:\Users\André Melo\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Release\MineSweeper.vbproj.GenerateResource.Cache
+C:\Users\André Melo\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Release\MineSweeper.exe
+C:\Users\André Melo\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Release\MineSweeper.xml
+C:\Users\André Melo\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Release\MineSweeper.pdb
+C:\Users\André Melo\Desktop\Minesweeper\MineSweeper\MineSweeper\obj\x86\Release\MineSweeper.exe
+C:\Users\André Melo\Desktop\Minesweeper\MineSweeper\MineSweeper\obj\x86\Release\MineSweeper.xml
+C:\Users\André Melo\Desktop\Minesweeper\MineSweeper\MineSweeper\obj\x86\Release\MineSweeper.pdb
